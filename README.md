@@ -23,3 +23,13 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 * Sort the DataFrame values by date.
 
 * Plot the results using the DataFrame plot method.
+
+# Temperature Analysis I
+
+* Hawaii is reputed to enjoy mild weather all year. Is there a meaningful difference between the temperature in, for example, June and December?
+
+* You may either use SQLAlchemy or pandas's read_csv() to perform this portion.
+
+* Identify the average temperature in June at all stations across all available years in the dataset. Do the same for December temperature.
+
+* Use the t-test to determine whether the difference in the means, if any, is statistically significant. Will you use a paired t-test, or an unpaired t-test? Why?
