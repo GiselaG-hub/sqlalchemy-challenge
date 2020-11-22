@@ -45,4 +45,4 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
 * Use the average temperature as the bar height.
 
-*Use the peak-to-peak (TMAX-TMIN) value as the y error bar (YERR).
+* Use the peak-to-peak (TMAX-TMIN) value as the y error bar (YERR).
